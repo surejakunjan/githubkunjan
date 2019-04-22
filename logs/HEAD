@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 ab9396c59769728a211d3f39d6a3d24edbb0a6c0 root <root@kube-master> 1555924948 +0000	clone: from https://github.com/surejakunjan/githubkunjan.git
+ab9396c59769728a211d3f39d6a3d24edbb0a6c0 c71b94b0a31a4c3b36ceb1846a1549ab5c208bff root <root@kube-master> 1555925029 +0000	commit: Initial Commit
+c71b94b0a31a4c3b36ceb1846a1549ab5c208bff ff2ca4c47c6fc48f1d0314c1bc6feb9e767a5df4 root <root@kube-master> 1555925650 +0000	commit: Hello
+ff2ca4c47c6fc48f1d0314c1bc6feb9e767a5df4 7dc34173111d944b0450d52e18b5dfed61e835b9 root <root@kube-master> 1555926999 +0000	commit: hello has been removed
+7dc34173111d944b0450d52e18b5dfed61e835b9 ff2ca4c47c6fc48f1d0314c1bc6feb9e767a5df4 root <root@kube-master> 1555927241 +0000	reset: moving to HEAD~1
+ff2ca4c47c6fc48f1d0314c1bc6feb9e767a5df4 ab9396c59769728a211d3f39d6a3d24edbb0a6c0 root <root@kube-master> 1555927258 +0000	reset: moving to HEAD~2
